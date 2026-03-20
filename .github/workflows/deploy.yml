@@ -63,6 +63,8 @@ on:
 
 permissions:
   contents: write
+  pages: write      # ← これが抜けていると pages-build-deployment が出ません
+  id-token: write   # ← これも必要です
 
 jobs:
   deploy:
