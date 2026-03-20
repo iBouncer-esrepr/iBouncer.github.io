@@ -103,3 +103,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
