@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://iBouncer-esrepr.github.io/al-folio/sitemap.xml
+Sitemap: https://iBouncer-esrepr.github.io/sitemap.xml
